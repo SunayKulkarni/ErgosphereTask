@@ -1,0 +1,16 @@
+# Python
+backend/.venv/
+backend/__pycache__/
+backend/**/*.pyc
+backend/chroma_db/
+
+# Node
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+
+# Environment files
+.env
+
+# IDE
+.vscode/
